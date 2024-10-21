@@ -1,13 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<h1 align="center">
+<h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Giemdfk!;" />
 </h1>
 
-<div align="center">
 # 💫 About Me:
 🔭 I'm currently working on various projects to enhance my coding skills<br>🌱 I'm always learning and expanding my knowledge in different programming languages<br>👯 I'm open to collaborations on interesting projects<br>⚡ Fun fact: I enjoy the process of learning and growing, even when I'm lost!
-</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/giehehe) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/conkanggy) 
