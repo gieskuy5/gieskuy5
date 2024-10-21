@@ -40,7 +40,7 @@ I'm continuously exploring these technologies and more. Every day is an opportun
 
 ---
 
-<div align="left">
+<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
@@ -48,4 +48,8 @@ I'm continuously exploring these technologies and more. Every day is an opportun
   <br/><br/><br/>
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=giemdfk'&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+    <img src="https://visitcount.itsvg.in/api?id=giemdfk'&icon=0&color=0)](https://visitcount.itsvg.in" />
+  <br><br>
+  <i>"But to be happy, it's important that you don't care too much about others. Happy and judged or free but miserable" - Albert Camus</i>
+</div>
