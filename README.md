@@ -1,71 +1,58 @@
-# Hello, I'm Giemdfk! 👋
+# 👋 Hello, I'm Giemdfk!
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Waving Hand">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&width=435&lines=Hello%2C+I'm+Giemdfk!;Always+learning+new+things!;Don't+follow+me%2C+I'm+lost+too!" alt="Typing Hello">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&width=435&lines=Hello%2C+I'm+Giemdfk!;Welcome+to+my+GitHub+Profile!;Always+learning+new+things!" alt="Typing SVG">
 </p>
- 
-🔭 I'm currently working on various projects to enhance my coding skills
-🌱 I'm always learning and expanding my knowledge in different programming languages
-👯 I'm open to collaborations on interesting projects
-⚡ Fun fact: I enjoy the process of learning and growing, even when I'm lost!
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+---
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+### 🌟 About Me:
+- 💻 **Passionate Developer** focused on learning and building cool projects.
+- 🚀 Interested in **open-source**, **automation**, and **web development**.
+- 🌱 Currently exploring **AI/ML**, **blockchain**, and **cloud computing**.
+- ✨ **Lifelong learner** always seeking to improve my skills.
   
-  <br/><br/><br/>
-</div>
+---
 
-<hr/>
+### ⚡ Tech Stack:
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+---
 
-<br/><br/>
+### 🔥 Fun Stats:
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giemdfk&show_icons=true&hide_border=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giemdfk&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-<hr/>
+---
 
-<br/>
+### 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=giemdfk&theme=radical&no-frame=true&row=1&column=7" alt="Trophies">
+</p>
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+---
 
-<br/>
+### 📫 Get in Touch:
+- **LinkedIn**: [Giemdfk](https://www.linkedin.com/in/giemdfk)
+- **Twitter**: [@giemdfk](https://twitter.com/giemdfk)
+- **Email**: [giemdfk@example.com](mailto:giemdfk@example.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=giemdfk&style=for-the-badge" alt="Profile Views">
+</p>
+
