@@ -4,14 +4,35 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Giemdfk!;" />
 </h1>
 
-# 💫 About Me:
-🔭 I'm currently working on various projects to enhance my coding skills<br>🌱 I'm always learning and expanding my knowledge in different programming languages<br>👯 I'm open to collaborations on interesting projects<br>⚡ Fun fact: I enjoy the process of learning and growing, even when I'm lost!
+---
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/giehehe) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/conkanggy) 
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+> "Don't follow me, because I'm lost too"
+
+I'm a developer on an exciting journey through the world of code. While I might be lost sometimes, I believe that's where the best discoveries happen! I'm constantly exploring new technologies and improving my skills.
+
+- 🔭 I'm currently working on various projects to enhance my coding skills
+- 🌱 I'm always learning and expanding my knowledge in different programming languages
+- 👯 I'm open to collaborations on interesting projects
+- ⚡ Fun fact: I enjoy the process of learning and growing, even when I'm lost!
+
+---
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+</div>
+
+I'm continuously exploring these technologies and more. Every day is an opportunity to learn something new!
+
+---
 
 <div align="left">
   <h2>🐍 My Contributions 🐍</h2>
