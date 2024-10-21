@@ -1,6 +1,7 @@
-# Hello, I'm Giemdfk! 👋
+# 👋 Hello, I'm Giemdfk!
 
-![Waving Hello](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&width=435&lines=Hello%2C+I'm+Giemdfk!;Always+learning+new+things!;Don't+follow+me%2C+I'm+lost+too!)
+![Waving Hand](https://your-image-link.com/path-to-your-waving-hand.gif)  
+![Typing Hello](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&width=435&lines=Hello%2C+I'm+Giemdfk!;Always+learning+new+things!;Don't+follow+me%2C+I'm+lost+too!)
  
 🔭 I'm currently working on various projects to enhance my coding skills
 🌱 I'm always learning and expanding my knowledge in different programming languages
