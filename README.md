@@ -1,15 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+# Hello, I'm Giemdfk! 👋
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+giemdfk!;" />
-</h1>
-
-<h1 align="center">
-<img src=I'm just a beginner</h1>
-
-<br/>
-
-<div align="center">
+![Waving Hello](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&width=435&lines=Hello%2C+I'm+Giemdfk!;Always+learning+new+things!;Don't+follow+me%2C+I'm+lost+too!)
  
 🔭 I'm currently working on various projects to enhance my coding skills
 🌱 I'm always learning and expanding my knowledge in different programming languages
