@@ -1,12 +1,8 @@
-# 👋 Hello, I'm Giemdfk!
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<p align="center">
-  <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Waving Hand">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&width=435&lines=Hello%2C+I'm+Giemdfk!;Welcome+to+my+GitHub+Profile!;Always+learning+new+things!" alt="Typing SVG">
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Giemdfk!;" />
+</h1>
 
 # 💫 About Me:
 🔭 I'm currently working on various projects to enhance my coding skills<br>🌱 I'm always learning and expanding my knowledge in different programming languages<br>👯 I'm open to collaborations on interesting projects<br>⚡ Fun fact: I enjoy the process of learning and growing, even when I'm lost!
