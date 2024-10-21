@@ -1,16 +1,23 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<h1 align="left">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Giemdfk!;" />
 </h1>
+
+<p align="center">
+  <a href="https://saweria.co/gieskuy" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
+  <a href="https://t.me/giemdfk" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Channel">
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
 > "Don't follow me, because I'm lost too"
-
-I'm a developer on an exciting journey through the world of code. While I might be lost sometimes, I believe that's where the best discoveries happen! I'm constantly exploring new technologies and improving my skills.
 
 - 🔭 I'm currently working on various projects to enhance my coding skills
 - 🌱 I'm always learning and expanding my knowledge in different programming languages
