@@ -19,11 +19,10 @@
 
 > "Don't follow me, because I'm lost too"
 
-- 🔭 I'm currently working on various projects to enhance my coding skills
-- 🌱 I'm always learning and expanding my knowledge in different programming languages
-- 👯 I'm open to collaborations on interesting projects
-- ⚡ Fun fact: I enjoy the process of learning and growing, even when I'm lost!
-
+- 🔭 I'm currently working on a new project
+- 🌱 I am always willing to learn new things
+- 👯 I'm open to anyone who wants to collaborate with me
+- ⚡ Fun facts: I'm not that smart but I find it challenging
 ---
 
 <div align="center">
@@ -50,14 +49,3 @@ I'm continuously exploring these technologies and more. Every day is an opportun
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=giemdfk'&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://saweria.co/gieskuy) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=giemdfk&style=for-the-badge" alt="Profile Views">
-</p>
-
