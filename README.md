@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=280&section=header&text=&fontSize=90&fontAlignY=35&desc=&descAlignY=51&descAlign=62"/>
-  
-  <!-- Animated Welcome Text -->
+    <!-- Animated Welcome Text -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Gieskuy!+👋;Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing!" alt="Typing SVG" />
   
   <!-- Animated Developer GIF -->
@@ -97,7 +94,6 @@
 <div align="center">
   
 ![Visitor Count](https://komarev.com/ghpvc/?username=Gieskuy&style=for-the-badge&color=brightgreen)  
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGieskuy%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 
 </div>
 
