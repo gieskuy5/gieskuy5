@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Halo%20👋&fontSize=80&fontAlignY=35&desc=Saya%20[NAMA%20ANDA]&descAlignY=51&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Halo%20👋&fontSize=80&fontAlignY=35&desc=Saya%20Gieskuy&descAlignY=51&descAlign=62"/>
 </div>
 
 <div align="center">
@@ -57,34 +57,34 @@
 ## 📊 Statistik GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME]&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gieskuy&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gieskuy&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gieskuy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🏆 Pencapaian GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[USERNAME]&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Gieskuy&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Grafik Aktivitas
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[USERNAME]&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9ca24&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gieskuy&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9ca24&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ## 🎯 Proyek Unggulan
 
 <div align="center">
-  <a href="https://github.com/[USERNAME]/[REPO-NAME]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[USERNAME]&repo=[REPO-NAME]&theme=radical&hide_border=true" alt="Repo Card" />
+  <a href="https://github.com/Gieskuy/[REPO-NAME]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gieskuy&repo=[REPO-NAME]&theme=radical&hide_border=true" alt="Repo Card" />
   </a>
-  <a href="https://github.com/[USERNAME]/[REPO-NAME-2]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[USERNAME]&repo=[REPO-NAME-2]&theme=radical&hide_border=true" alt="Repo Card" />
+  <a href="https://github.com/Gieskuy/[REPO-NAME-2]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gieskuy&repo=[REPO-NAME-2]&theme=radical&hide_border=true" alt="Repo Card" />
   </a>
 </div>
 
@@ -103,8 +103,8 @@
 
 <div align="center">
   
-![Visitor Count](https://komarev.com/ghpvc/?username=[USERNAME]&style=for-the-badge&color=brightgreen)
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F[USERNAME]%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+![Visitor Count](https://komarev.com/ghpvc/?username=Gieskuy&style=for-the-badge&color=brightgreen)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGieskuy%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 
 </div>
 
@@ -112,8 +112,8 @@
 
 <div align="center">
   
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/[USERNAME])
-[![Ko-Fi](https://img.shields.io/badge/-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/[USERNAME])
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Gieskuy)
+[![Ko-Fi](https://img.shields.io/badge/-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Gieskuy)
 
 </div>
 
