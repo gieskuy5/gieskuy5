@@ -1,3 +1,8 @@
+<!-- 🌸 Anime Aesthetic Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="100%" alt="anime aesthetic banner">
+</p>
+
 <h1 align="center">
   👋 Hey there, I'm <span style="color:#ff4757;">Anggy Triatmaja</span> 🚀  
 </h1>
