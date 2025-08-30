@@ -1,113 +1,122 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Halo%20👋&fontSize=80&fontAlignY=35&desc=Saya%20[NAMA%20ANDA]&descAlignY=51&descAlign=62"/>
 </div>
-
-###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=[USERNAME].visitor-badge&"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=500&height=50&duration=3500&pause=1000&color=F75C7E&lines=💻+Full+Stack+Developer;🎯+Problem+Solver;🚀+Tech+Enthusiast;🌟+Open+Source+Contributor" />
 </div>
-
-###
-
-<h1 align="center">Halo 👋 Saya [NAMA ANDA]</h1>
-
-###
-
-<h3 align="left">👩‍💻  Tentang Saya</h3>
-
-###
-
-<p align="left">Saya adalah seorang [PROFESI/ROLE] yang passionate dalam [BIDANG KEAHLIAN]<br><br>- 🔭 Saat ini saya sedang mengerjakan [PROJECT TERKINI]<br>- 📚 Saya sedang mempelajari [TEKNOLOGI BARU]<br>- ⚡ Fun fact: [FAKTA MENARIK TENTANG ANDA]</p>
-
-###
-
-<h3 align="left">🛠 Tech Stack</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   Statistik Saya :</h3>
-
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=[USERNAME]&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-###
+## 🚀 Tentang Saya
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+- 🔭 Saat ini sedang mengerjakan **[Nama Proyek]**
+- 🌱 Sedang belajar **[Teknologi Baru]**
+- 👯 Mencari kolaborasi dalam **[Bidang Minat]**
+- 🤔 Butuh bantuan dengan **[Topik Tertentu]**
+- 💬 Tanya saya tentang **[Keahlian Anda]**
+- 📫 Hubungi saya: **[email@anda.com]**
+- ⚡ Fakta menarik: **[Fakta unik tentang Anda]**
+
+<br clear="both">
+
+## 🛠️ Teknologi & Tools
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=[USERNAME]&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </div>
 
-###
+## 📊 Statistik GitHub
 
-<h3 align="left">🐍 Contributions</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME]&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
-<img src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/snake.svg" alt="Snake animation" />
+## 🏆 Pencapaian GitHub
 
-###
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=[USERNAME]&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
 
-<h3 align="left">📫 Hubungi Saya</h3>
+## 📈 Grafik Aktivitas
 
-###
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[USERNAME]&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9ca24&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
 
-<div align="left">
-  <a href="mailto:[EMAIL]">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+## 🎯 Proyek Unggulan
+
+<div align="center">
+  <a href="https://github.com/[USERNAME]/[REPO-NAME]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[USERNAME]&repo=[REPO-NAME]&theme=radical&hide_border=true" alt="Repo Card" />
   </a>
-  <a href="[LINKEDIN_URL]">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="[TWITTER_URL]">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="[INSTAGRAM_URL]">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://github.com/[USERNAME]/[REPO-NAME-2]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[USERNAME]&repo=[REPO-NAME-2]&theme=radical&hide_border=true" alt="Repo Card" />
   </a>
 </div>
 
-###
+## 🤝 Mari Terhubung
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[PROFILE])
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[USERNAME])
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[USERNAME])
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[EMAIL])
+
 </div>
 
-###
-
-<h3 align="center">💭 Quote Favorit</h3>
-
-###
+## 📈 Visitor Count
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  
+![Visitor Count](https://komarev.com/ghpvc/?username=[USERNAME]&style=for-the-badge&color=brightgreen)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F[USERNAME]%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+
 </div>
 
-###
+## 💝 Dukungan
 
 <div align="center">
-  <h4>⭐️ Dari [USERNAME]</h4>
+  
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/[USERNAME])
+[![Ko-Fi](https://img.shields.io/badge/-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/[USERNAME])
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=120&section=footer"/>
 </div>
