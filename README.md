@@ -1,53 +1,58 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Giemdfk!;" />
+  👋 Hey there, I'm <span style="color:#ff4757;">Anggy Triatmaja</span> 🚀  
 </h1>
+<h3 align="center">✨ Dreamer | 💻 Builder | 🌍 Explorer</h3>
 
+---
+
+### 🌈 About Me  
+🎯 Always curious about **AI x Web3 x Automation**  
+⚡ Building fun projects like **Discord Bots, Web3 Scripts, Auto Tools**  
+💡 Love to explore **new technologies** and turn ideas into reality  
+🎮 Gamer spirit + ☕ Coffee powered coder  
+
+---
+
+### 🎨 Fun Tech Stack
 <p align="center">
-  <a href="https://saweria.co/gieskuy" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
-  <a href="https://t.me/giemdfk" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Channel">
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,js,react,nextjs,tailwind,solidity" /> <br/>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,mongodb,mysql,redis" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-> "Don't follow me, because I'm lost too"
-
-- 🔭 I'm currently working on a new project
-- 🌱 I am always willing to learn new things
-- 👯 I'm open to anyone who wants to collaborate with me
-- ⚡ Fun facts: I'm not that smart but I find it challenging
----
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-</div>
+### 📊 Playful GitHub Stats  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YourGitHubUser&theme=neon-dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUser&show_icons=true&theme=radical&hide_border=true" height="165"/>
+</p>
 
 ---
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+### 🏆 Trophies Time 🏆
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUser&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
-<div align="center">
-    <img src="https://visitcount.itsvg.in/api?id=giemdfk'&icon=0&color=0)](https://visitcount.itsvg.in" />
-  <br><br>
-  <i>"But to be happy, it's important that you don't care too much about others. Happy and judged or free but miserable" - Albert Camus</i>
-</div>
+---
+
+### 🔮 Vibes Zone  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF3CAC&center=true&vCenter=true&random=false&width=435&lines=Keep+Coding+🔥;Web3+is+the+Future+🚀;AI+for+Everyone+🤖;Never+Stop+Learning+💡">
+</p>
+
+---
+
+### 🔗 Let’s Connect  
+<p align="center">
+  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-%2300BFFF.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://discord.gg/yourdiscord"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  🌟 "Code with passion, share with the world, and keep it fun!" 🌟
+</p>
