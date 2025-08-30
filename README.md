@@ -15,28 +15,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Gieskuy"
-        self.role = "Full Stack Developer"
-        self.language_spoken = ["en_US", "id_ID"]
-        self.code = ["Python", "JavaScript", "TypeScript", "Java"]
-        self.technologies = {
-            "frontEnd": ["React", "Vue.js", "Next.js", "Tailwind"],
-            "backEnd": ["Node.js", "Express", "FastAPI", "Spring"],
-            "databases": ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
-            "devOps": ["AWS", "Docker", "CI/CD", "Kubernetes"],
-            "tools": ["Git", "GitHub Actions", "Postman", "Figma"]
-        }
-        self.current_focus = "Building scalable web applications"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's connect and build amazing things together!")
-
-me = Developer()
-me.say_hi()
-
 <br clear="both">
 
 ## 🛠️ Technologies & Tools
