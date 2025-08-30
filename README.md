@@ -3,6 +3,10 @@
 </h1>
 <h3 align="center">✨ Dreamer | 💻 Builder | 🌍 Explorer</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding cat">
+</p>
+
 ---
 
 ### 🌈 About Me  
@@ -52,6 +56,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="hacker typing">
+</p>
 
 <p align="center">
   🌟 "Code with passion, share with the world, and keep it fun!" 🌟
