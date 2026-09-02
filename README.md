@@ -80,22 +80,12 @@
 <div align="center">
 <h2>📊 GitHub Statistics</h2>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gieskuy&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gieskuy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=gieskuy5&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gieskuy5&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gieskuy&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<br>
-
-<!-- Trophies Section -->
-<div align="center">
-<h2>🏆 GitHub Achievements</h2>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gieskuy&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gieskuy5&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -108,14 +98,11 @@
 <a href="mailto:anggytriatmaja05@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://discord.com/users/giehehe">
+<a href="https://discord.com/users/969528562421997568">
   <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 <a href="https://t.me/giemdfk">
   <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-<a href="https://x.com/HellboyStein">
-  <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
 </a>
 
 </div>
@@ -154,5 +141,5 @@
 
 <!-- Visitor Count -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gieskuy&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=gieskuy5&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
 </div>
